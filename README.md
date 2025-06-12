@@ -54,7 +54,7 @@ Este sistema permite gestionar de forma ordenada los procesos principales de una
 ## 📎 Uso
 
 1. Ejecutar `creacion_basededatos.sql` para crear toda la estructura de la base de datos.
-2. Ejecutar `inserts_petcare_full_chileno.sql` para insertar datos de prueba.
+2. Ejecutar `inserts_petcare.sql` para insertar datos de prueba.
 3. Utilizar las consultas en `consultas sql.sql` para probar y analizar la información almacenada.
 
 ---
